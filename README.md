@@ -30,7 +30,7 @@ a server-side translation layer that automatically sanitizes input and inhibits 
 Velox Client is a JavaScript/ECMAScript library that provides classes that facilitate communication with Velox API
 endpoints, building and sending requests and receiving and parsing the responses. This eliminates the need to build Fetch
 API or XMLHttpRequest calls directly; these are built into and invoked by the Velox Client classes themselves. Used in
-combination with Velox API and Velox Server, queries to the underlying data source can be handled simplyby writing a short
+combination with Velox API and Velox Server, queries to the underlying data source can be handled simply by writing a short
 query definition on the backend, and a JavaScript routine on the front end referencing the endpoint created.
 
 ## Licensing
