@@ -10,7 +10,8 @@ over the wire and needs only use the methods of the component they're working wi
 
 ## Overview of Components
 The following is a brief summary of each Velox component. For more details, including how to install and use each
-component, click on the component's title to visit the appropriate repository.
+component, or to create or view issues for the component in question, click on the component's title to visit the
+appropriate repository.
 
 ### [Velox Server](https://github.com/KitsuneTech-com/Velox-Server)
 Velox Server is a PHP library that abstracts away the various database drivers and libraries and presents a
