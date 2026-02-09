@@ -15,7 +15,7 @@ appropriate repository.
 
 ### [Velox Server](https://github.com/KitsuneTech-com/Velox-Server)
 Velox Server is a PHP library that abstracts away the various database drivers and libraries and presents a
-platform-agnostic interface by which tocommunicate with any of the supported database engines without having to know the
+platform-agnostic interface by which to communicate with any of the supported database engines without having to know the
 differences between the functions used for each engine. It can also be used to facilitate ETL operations or even perform
 joins between disparate databases, and to easily export queried data in several common formats.
 
